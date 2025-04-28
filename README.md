@@ -14,7 +14,7 @@
 <img src="https://github.com/Nukelimer/Nukelimer/blob/main/coffee.jpg" alt="Coffee is life.">-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+Wanderer!+👋;+I'm+Egwuda,+Remi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffff&duration=2000&lines=Hi+Wanderer!+👋;+I'm+Egwuda,+Remi!;" />
 </h1>
 
 ### I'm a Front-End Developer with a passion for crafting beautiful and interactive web experiences. I specialize in Svelte (SvelteKit), React (Next.js), and TypeScript, and I love building clean UIs with TailwindCSS and adding life to them using GSAP animations.
