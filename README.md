@@ -5,7 +5,7 @@
 
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>These are the numbers of wanders that checked this account out:</p>
   <img src="https://profile-counter.glitch.me/{Nukelimer}/count.svg" alt="Visitor's Count" />
 </div>
 
